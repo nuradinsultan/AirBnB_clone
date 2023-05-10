@@ -25,7 +25,7 @@ To start the command interpreter, you go to the project's directory and run the 
 
     ./console.py
 
-![Startup](https://media.giphy.com/media/LrElgtYRDClP8R4zLr/giphy.gif)
+![Startup](<iframe src="https://giphy.com/embed/LrElgtYRDClP8R4zLr" width="480" height="164" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/LrElgtYRDClP8R4zLr">via GIPHY</a></p>)
 
 #### How to use it & Examples:
 ##### Create
@@ -56,7 +56,7 @@ Example: `$ all BaseModel` or `$ all`
 Updates an instance based on the class name and `id` by adding or updating attribute (save the change into the JSON file):
 Example: `$ update BaseModel 1234-1234-1234 email "aibnb@holbertonschool.com"`
 
-![Update 1](https://media.giphy.com/media/TiDaXq1xhvozepaXoA/giphy.gif)
+![Update 1](<iframe src="https://giphy.com/embed/ftZFODLVcGD7R90r01" width="480" height="164" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ftZFODLVcGD7R90r01">via GIPHY</a></p>)
 
 After adding or updating attribute it shows:
 
