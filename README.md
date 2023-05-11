@@ -1,5 +1,5 @@
  <p align="center">
-  <img src="https://i.ibb.co/cD8rdfQ/ERIKA-3.jpg">
+
 </p>
 
 # AirBnB Clone : The  Console
@@ -31,35 +31,29 @@ To start the command interpreter, you go to the project's directory and run the 
 Creates a new instance and saves it (to the JSON file) and prints the `id`:
 Example: `$ create BaseModel`
 
-![Create](https://media.giphy.com/media/THBlFwC4wP1xqKR6eV/giphy.gif)
 
 ##### Show
 Prints the string representation of an instance based on the class name and `id`:
 Example: `$ show BaseModel 1234-1234-1234`
 
-![Show](https://media.giphy.com/media/kDecIPbRobmkKQHbed/giphy.gif)
 
 ##### Destroy
 Deletes an instance based on the class name and `id` (save the change into the JSON file):
 Example: `$ destroy BaseModel 1234-1234-1234`
 
-![Destroy](https://media.giphy.com/media/lNX5Ifd3dOSaxa6ecQ/giphy.gif)
 
 ##### All
 Prints all string representation of all instances based or not on the class name:
 Example: `$ all BaseModel` or `$ all`
 
-![All](https://media.giphy.com/media/ftZFODLVcGD7R90r01/giphy.gif)
 
 ##### Update
 Updates an instance based on the class name and `id` by adding or updating attribute (save the change into the JSON file):
 Example: `$ update BaseModel 1234-1234-1234 email "aibnb@holbertonschool.com"`
 
-![Update 1](<iframe src="https://giphy.com/embed/ftZFODLVcGD7R90r01" width="480" height="164" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ftZFODLVcGD7R90r01">via GIPHY</a></p>)
 
 After adding or updating attribute it shows:
 
-![Show updated instance](https://media.giphy.com/media/ch89AcTIa3ZinQ5YHM/giphy.gif)
 
 # AirBnB clone - The console
 <table>
@@ -179,20 +173,12 @@ Most commands have several options or arguments that can be used when executing 
 Example:
 
 
-user@ubuntu:~/AirBnB$ ./console.py
-(hbnb) create BaseModel
-49faff9a-6318-451f-87b6-910505c55907
-user@ubuntu:~/AirBnB$ ./console.py
 
-or
 
-user@ubuntu:~/AirBnB$ ./console.py $ echo "create BaseModel" | ./console.py
-(hbnb)
-e37ebcd3-f8e1-4c1f-8095-7a019070b1fa
-(hbnb)
-user@ubuntu:~/AirBnB$ ./console.py
-Available commands and what they do
-The recognizable commands by the interpreter are the following:
+
+
+
+ are the following:
 
 Command	Description
 quit or EOF	Exits the program
