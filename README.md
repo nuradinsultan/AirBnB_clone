@@ -25,7 +25,6 @@ To start the command interpreter, you go to the project's directory and run the 
 
     ./console.py
 
-![Startup](<iframe src="https://giphy.com/embed/LrElgtYRDClP8R4zLr" width="480" height="164" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/LrElgtYRDClP8R4zLr">via GIPHY</a></p>)
 
 #### How to use it & Examples:
 ##### Create
@@ -107,7 +106,7 @@ These instructions will get you a copy of the project up and running on your loc
 Installing
 You will need to clone the repository of the project from Github. This will contain the simple shell program and all of its dependencies.
 
-git clone https://github.com/marameref/AirBnB_clone.git
+git clone https://github.com/nuradinsultan/AirBnB_clone.git
 After cloning the repository you will have a folder called AirBnB_clone. In here there will be several files that allow the program to work.
 
 /console.py : The main executable of the project, the command interpreter.
